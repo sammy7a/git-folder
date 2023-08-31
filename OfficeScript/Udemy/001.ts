@@ -1,5 +1,5 @@
  console.log('Hello World');
 
- const str: string = 'Hello!';
- console.log(str);
- 
+const aaaaa: string = 'Hello!';
+
+ console.log(aaaaa);
